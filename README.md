@@ -1,3 +1,3 @@
-# SCRIPTS
+# README
 
 - AI 1
